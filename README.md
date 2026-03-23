@@ -1,100 +1,72 @@
 # 👋 Hi, I'm Ammatias
 
-🚀 Developer focused on **Next.js, AI and DevOps**
-🐳 Building ready-to-use **Docker setups & self-hosted solutions**
-🧠 Turning complex infrastructure into simple, reproducible templates
+🐳 Building and sharing **self-hosted apps & homelab setups**
+🤖 Exploring **AI tools and local model deployment**
+⚡ Creating simple, reproducible **Docker-based solutions**
 
 ---
 
-## ⚡ About Me
+## 🚀 What I Do
 
-* 🧩 I build practical tools, not just demos
-* 🐳 I simplify infrastructure with Docker & automation
-* 🤖 Exploring AI integrations in real-world applications
-* 🏠 Running and documenting my own homelab
+I build **real-world setups** that you can run on your own server:
+
+* 🐳 Ready-to-use `docker-compose` templates
+* 🧠 Self-hosted AI tools and services
+* 🏠 Homelab infrastructure
+* 📦 Minimal and practical configurations
+
+---
+
+## 🏠 Homelab
+
+👉 https://github.com/Ammatias/homelab
+
+A collection of services I run on my own server.
+
+* One-command deployments
+* Clean and simple configs
+* Real setups (not tutorials)
+
+> Goal: make self-hosting easy and reproducible
+
+---
+
+## 📚 Cheat Sheets
+
+👉 https://github.com/Ammatias/cheat-sheets
+
+My personal knowledge base:
+
+* Docker
+* Linux
+* AI tools
+* Commands & workflows
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-
-* Next.js
-* TypeScript
-
-**DevOps / Backend**
-
-* Docker / Docker Compose
-* Linux
-* Self-hosted services
-
-**Other**
-
-* AI tools & integrations
-* Infrastructure templating
+* 🐳 Docker / Docker Compose
+* 🧠 AI APIs + local models
+* 🌐 Next.js (simple apps)
+* 🐧 Linux
 
 ---
 
-## 📦 What I Build
+## 🎯 Current Focus
 
-### 🏠 Homelab
-
-Repository:
-👉 https://github.com/Ammatias/homelab
-
-* Self-hosted infrastructure setups
-* Ready-to-run services
-* Real-world configs (not theory)
-* Focus on simplicity & reproducibility
+* Self-hosting AI tools locally
+* Improving homelab infrastructure
+* Building reusable Docker templates
 
 ---
 
-### 📚 Cheat Sheets
+## 🌱 Status
 
-Repository:
-👉 https://github.com/Ammatias/cheat-sheets
-
-* Quick references for tools & workflows
-* Commands, configs, and notes
-* Personal knowledge base
+> Beginner, building real things and improving every day
 
 ---
 
-## 🚀 Mission
-
-> Make self-hosting and DevOps accessible through simple, reusable setups
-
-I create:
-
-* 🐳 docker-compose templates
-* ⚙️ ready-to-deploy services
-* 📖 practical documentation
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammatias&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammatias&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Currently Learning
-
-* Advanced Docker & orchestration
-* AI-powered applications
-* Scalable infrastructure
-
----
-
-## 📫 Contact
-
-* GitHub: https://github.com/Ammatias
-
----
-
-## ⚡ Philosophy
+## ⭐ Philosophy
 
 > If it’s not reproducible — it’s broken.
