@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ammatias
 
 🐳 Building **self-hosted infrastructure & homelab systems**
+🌐 Designing **routing & reverse proxy architecture**
 🤖 Running **local AI (LLMs & image generation)**
 ⚡ Creating **reproducible Docker-based setups**
 
@@ -8,10 +9,11 @@
 
 ## 🚀 What I Do
 
-I build **real, production-like setups** that you can run on your own server:
+I build **real, production-like environments** that you can run on your own server:
 
 * 🐳 Ready-to-use `docker-compose` templates
-* 🧠 Self-hosted AI (LLMs, local inference, tools)
+* 🌐 Reverse proxy & routing (Traefik)
+* 🧠 Self-hosted AI (local inference, tools, pipelines)
 * 🏠 Full homelab infrastructure (auth, monitoring, media, etc.)
 * 📦 Minimal, clean and reproducible configurations
 
@@ -21,12 +23,19 @@ I build **real, production-like setups** that you can run on your own server:
 
 👉 https://github.com/Ammatias/homelab
 
-A **modular self-hosted ecosystem** I run on my own server.
+A **modular self-hosted platform** I run on my own server.
+
+### 🏗 Architecture:
+
+* 🌐 Reverse proxy: Traefik (systemd, central entrypoint)
+* 🐳 Services: Docker-based applications
+* 🗄 Data layer: PostgreSQL
+* 🔐 Auth layer: Authentik
 
 ### 🔧 Includes:
 
 * 🔐 Auth & Security (SSO, password manager)
-* 📊 Monitoring (metrics, dashboards)
+* 📊 Monitoring (Prometheus, Grafana)
 * 🎬 Media automation stack (Arr ecosystem)
 * 🤖 Local AI stack (LLM + UI)
 * 🖥 Internal tools & dashboards
@@ -35,6 +44,7 @@ A **modular self-hosted ecosystem** I run on my own server.
 
 * One-command deployments
 * Clean and portable configs (`./`, no hardcoded paths)
+* Domain-based routing (Traefik)
 * Real setups — not tutorials
 
 > Goal: make self-hosting simple, reproducible and actually usable
@@ -53,6 +63,15 @@ Running AI locally:
 
 ---
 
+## 🌐 Infrastructure
+
+* Reverse proxy (Traefik as system service)
+* Internal networking & routing
+* HTTPS everywhere
+* Secure access patterns
+
+---
+
 ## 📚 Cheat Sheets
 
 👉 https://github.com/Ammatias/cheat-sheets
@@ -68,27 +87,4 @@ My personal **knowledge base**:
 
 ## 🛠 Tech Stack
 
-* 🐳 Docker / Docker Compose
-* 🧠 Local AI + APIs
-* 🌐 Next.js (simple apps)
-* 🐧 Linux
-
----
-
-## 🎯 Current Focus
-
-* Building **local AI infrastructure**
-* Improving **homelab architecture**
-* Creating **reusable and portable setups**
-
----
-
-## 🌱 Status
-
-> Beginner → building real systems, not just learning
-
----
-
-## ⭐ Philosophy
-
-> If it’s not reproducible — it’s broken
+* 🐳 Docker / Docker Co*
