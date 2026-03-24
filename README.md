@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Ammatias
 
-🐳 Building and sharing **self-hosted apps & homelab setups**
-🤖 Exploring **AI tools and local model deployment**
-⚡ Creating simple, reproducible **Docker-based solutions**
+🐳 Building **self-hosted infrastructure & homelab systems**
+🤖 Running **local AI (LLMs & image generation)**
+⚡ Creating **reproducible Docker-based setups**
 
 ---
 
 ## 🚀 What I Do
 
-I build **real-world setups** that you can run on your own server:
+I build **real, production-like setups** that you can run on your own server:
 
 * 🐳 Ready-to-use `docker-compose` templates
-* 🧠 Self-hosted AI tools and services
-* 🏠 Homelab infrastructure
-* 📦 Minimal and practical configurations
+* 🧠 Self-hosted AI (LLMs, local inference, tools)
+* 🏠 Full homelab infrastructure (auth, monitoring, media, etc.)
+* 📦 Minimal, clean and reproducible configurations
 
 ---
 
@@ -21,13 +21,35 @@ I build **real-world setups** that you can run on your own server:
 
 👉 https://github.com/Ammatias/homelab
 
-A collection of services I run on my own server.
+A **modular self-hosted ecosystem** I run on my own server.
+
+### 🔧 Includes:
+
+* 🔐 Auth & Security (SSO, password manager)
+* 📊 Monitoring (metrics, dashboards)
+* 🎬 Media automation stack (Arr ecosystem)
+* 🤖 Local AI stack (LLM + UI)
+* 🖥 Internal tools & dashboards
+
+### 💡 Features:
 
 * One-command deployments
-* Clean and simple configs
-* Real setups (not tutorials)
+* Clean and portable configs (`./`, no hardcoded paths)
+* Real setups — not tutorials
 
-> Goal: make self-hosting easy and reproducible
+> Goal: make self-hosting simple, reproducible and actually usable
+
+---
+
+## 🤖 AI Stack
+
+Running AI locally:
+
+* 🧠 LLM inference (KoboldCpp)
+* 💬 Chat UI (SillyTavern)
+* 🎨 Image generation (ComfyUI — WIP)
+
+> No external APIs. Fully self-hosted.
 
 ---
 
@@ -35,7 +57,7 @@ A collection of services I run on my own server.
 
 👉 https://github.com/Ammatias/cheat-sheets
 
-My personal knowledge base:
+My personal **knowledge base**:
 
 * Docker
 * Linux
@@ -47,7 +69,7 @@ My personal knowledge base:
 ## 🛠 Tech Stack
 
 * 🐳 Docker / Docker Compose
-* 🧠 AI APIs + local models
+* 🧠 Local AI + APIs
 * 🌐 Next.js (simple apps)
 * 🐧 Linux
 
@@ -55,18 +77,18 @@ My personal knowledge base:
 
 ## 🎯 Current Focus
 
-* Self-hosting AI tools locally
-* Improving homelab infrastructure
-* Building reusable Docker templates
+* Building **local AI infrastructure**
+* Improving **homelab architecture**
+* Creating **reusable and portable setups**
 
 ---
 
 ## 🌱 Status
 
-> Beginner, building real things and improving every day
+> Beginner → building real systems, not just learning
 
 ---
 
 ## ⭐ Philosophy
 
-> If it’s not reproducible — it’s broken.
+> If it’s not reproducible — it’s broken
