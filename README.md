@@ -88,3 +88,9 @@ My personal **knowledge base**:
 ## 🛠 Tech Stack
 
 * 🐳 Docker / Docker Co*
+
+---
+
+## ⭐ Philosophy
+
+> If it’s not reproducible — it’s broken
