@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ammatias
 
-🌐 Portfolio → https://portfolio.ammatias.ru
+🌐 Portfolio → https://portfolio.web.ammatias.ru
 
 🐳 Building **self-hosted infrastructure & homelab systems**
 🌐 Designing **routing & reverse proxy architecture**
